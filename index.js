@@ -64,12 +64,12 @@ $("#append button").click(function()
 )
 
 $("#html button").click(function()
-    {$("#html p").html('<img src="cat.jpg" alt="cat">')
+    {$("#html p").html('<img src="img/cat.jpg" alt="cat">')
     }
 )
 
 $("#attr button").click(function()
-    {$("#attr img").attr("src", "dog.jpg")
+    {$("#attr img").attr("src", "img/dog.jpg")
     }
 )
 
